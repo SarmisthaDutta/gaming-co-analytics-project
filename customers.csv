@@ -1,0 +1,1001 @@
+customer_id,signup_date,country,acquisition_channel
+100001,2024-04-12,UK,Facebook
+100002,2024-02-21,UK,Google Ads
+100003,2024-04-02,Sweden,Google Ads
+100004,2024-01-15,UK,Facebook
+100005,2024-04-16,UK,Affiliate
+100006,2024-03-12,Sweden,Affiliate
+100007,2024-03-01,Germany,Affiliate
+100008,2024-01-21,Germany,Affiliate
+100009,2024-04-12,Sweden,Facebook
+100010,2024-03-23,Sweden,Affiliate
+100011,2024-03-27,Sweden,Organic
+100012,2024-03-15,Sweden,Affiliate
+100013,2024-03-15,Sweden,Google Ads
+100014,2024-03-28,Germany,Affiliate
+100015,2024-04-26,Germany,Facebook
+100016,2024-04-09,Sweden,Google Ads
+100017,2024-04-13,UK,Facebook
+100018,2024-01-24,Sweden,Facebook
+100019,2024-01-03,UK,Google Ads
+100020,2024-01-22,Sweden,Facebook
+100021,2024-02-22,Sweden,Facebook
+100022,2024-01-02,Germany,Affiliate
+100023,2024-03-28,UK,Organic
+100024,2024-04-17,UK,Facebook
+100025,2024-01-30,Germany,Facebook
+100026,2024-02-07,Germany,Facebook
+100027,2024-01-02,Germany,Affiliate
+100028,2024-03-04,Germany,Organic
+100029,2024-02-29,UK,Google Ads
+100030,2024-01-21,UK,Affiliate
+100031,2024-02-02,Sweden,Affiliate
+100032,2024-03-16,Sweden,Organic
+100033,2024-02-27,Germany,Organic
+100034,2024-01-22,Germany,Affiliate
+100035,2024-04-17,Germany,Google Ads
+100036,2024-03-29,Sweden,Affiliate
+100037,2024-02-18,Sweden,Organic
+100038,2024-03-31,Sweden,Google Ads
+100039,2024-02-28,Sweden,Organic
+100040,2024-02-11,Sweden,Google Ads
+100041,2024-04-01,Sweden,Facebook
+100042,2024-02-29,Sweden,Organic
+100043,2024-03-20,Germany,Organic
+100044,2024-01-15,Germany,Affiliate
+100045,2024-03-02,Germany,Organic
+100046,2024-03-02,Germany,Organic
+100047,2024-02-16,Sweden,Facebook
+100048,2024-03-02,UK,Organic
+100049,2024-02-20,Sweden,Facebook
+100050,2024-04-17,UK,Facebook
+100051,2024-02-24,Germany,Facebook
+100052,2024-04-25,Sweden,Facebook
+100053,2024-03-04,Germany,Google Ads
+100054,2024-01-03,Sweden,Affiliate
+100055,2024-04-10,Germany,Google Ads
+100056,2024-02-20,UK,Organic
+100057,2024-01-07,UK,Google Ads
+100058,2024-01-21,UK,Google Ads
+100059,2024-03-13,Sweden,Organic
+100060,2024-02-08,UK,Organic
+100061,2024-01-18,Sweden,Organic
+100062,2024-01-04,UK,Google Ads
+100063,2024-03-29,UK,Google Ads
+100064,2024-02-29,Sweden,Organic
+100065,2024-01-14,Sweden,Affiliate
+100066,2024-04-23,UK,Affiliate
+100067,2024-01-09,Sweden,Facebook
+100068,2024-03-30,UK,Organic
+100069,2024-02-22,Sweden,Facebook
+100070,2024-01-02,Germany,Affiliate
+100071,2024-03-24,Germany,Facebook
+100072,2024-04-01,Germany,Organic
+100073,2024-04-20,Germany,Organic
+100074,2024-02-29,Germany,Organic
+100075,2024-03-11,UK,Google Ads
+100076,2024-02-13,Germany,Facebook
+100077,2024-01-08,Germany,Affiliate
+100078,2024-02-16,Germany,Affiliate
+100079,2024-02-04,Germany,Affiliate
+100080,2024-03-18,Sweden,Google Ads
+100081,2024-03-21,UK,Google Ads
+100082,2024-02-05,Germany,Organic
+100083,2024-02-19,Germany,Affiliate
+100084,2024-04-13,Germany,Google Ads
+100085,2024-01-04,UK,Organic
+100086,2024-01-02,Sweden,Affiliate
+100087,2024-01-06,UK,Facebook
+100088,2024-02-23,Sweden,Organic
+100089,2024-04-15,Germany,Google Ads
+100090,2024-01-04,Germany,Google Ads
+100091,2024-02-23,UK,Organic
+100092,2024-04-02,UK,Organic
+100093,2024-03-03,Sweden,Google Ads
+100094,2024-01-18,Sweden,Facebook
+100095,2024-03-30,UK,Affiliate
+100096,2024-02-13,Sweden,Facebook
+100097,2024-02-03,UK,Organic
+100098,2024-03-14,Sweden,Facebook
+100099,2024-03-02,UK,Google Ads
+100100,2024-04-09,UK,Organic
+100101,2024-01-14,UK,Affiliate
+100102,2024-04-04,Sweden,Google Ads
+100103,2024-02-17,Sweden,Google Ads
+100104,2024-01-15,Sweden,Affiliate
+100105,2024-03-12,UK,Affiliate
+100106,2024-03-18,Sweden,Facebook
+100107,2024-03-27,Sweden,Organic
+100108,2024-03-02,UK,Affiliate
+100109,2024-02-09,Germany,Affiliate
+100110,2024-03-25,UK,Organic
+100111,2024-03-20,Sweden,Affiliate
+100112,2024-04-18,UK,Affiliate
+100113,2024-03-22,Germany,Facebook
+100114,2024-04-20,UK,Google Ads
+100115,2024-02-22,Sweden,Google Ads
+100116,2024-01-24,Germany,Google Ads
+100117,2024-01-26,Sweden,Google Ads
+100118,2024-03-29,Germany,Affiliate
+100119,2024-02-29,Germany,Organic
+100120,2024-04-18,UK,Organic
+100121,2024-02-10,UK,Facebook
+100122,2024-01-29,Sweden,Facebook
+100123,2024-01-15,UK,Affiliate
+100124,2024-02-14,UK,Organic
+100125,2024-03-05,Germany,Organic
+100126,2024-03-29,UK,Google Ads
+100127,2024-03-11,Germany,Affiliate
+100128,2024-01-09,Germany,Affiliate
+100129,2024-03-28,Germany,Google Ads
+100130,2024-01-01,Sweden,Affiliate
+100131,2024-04-17,Sweden,Affiliate
+100132,2024-01-08,Sweden,Facebook
+100133,2024-03-28,Germany,Organic
+100134,2024-03-03,Sweden,Affiliate
+100135,2024-01-11,Sweden,Facebook
+100136,2024-04-24,UK,Organic
+100137,2024-03-21,Sweden,Google Ads
+100138,2024-01-08,Sweden,Facebook
+100139,2024-02-04,Germany,Facebook
+100140,2024-02-04,Germany,Organic
+100141,2024-02-02,Germany,Google Ads
+100142,2024-01-05,Germany,Facebook
+100143,2024-04-15,Germany,Affiliate
+100144,2024-04-12,Germany,Affiliate
+100145,2024-02-10,Sweden,Affiliate
+100146,2024-01-28,Germany,Google Ads
+100147,2024-01-07,Germany,Facebook
+100148,2024-03-13,UK,Affiliate
+100149,2024-03-12,Sweden,Google Ads
+100150,2024-01-12,Sweden,Affiliate
+100151,2024-02-03,Sweden,Organic
+100152,2024-02-02,Germany,Facebook
+100153,2024-02-17,Germany,Facebook
+100154,2024-04-28,Germany,Google Ads
+100155,2024-01-23,UK,Google Ads
+100156,2024-03-02,Germany,Facebook
+100157,2024-03-28,UK,Affiliate
+100158,2024-02-06,Sweden,Affiliate
+100159,2024-04-08,Germany,Organic
+100160,2024-02-13,UK,Affiliate
+100161,2024-04-13,UK,Google Ads
+100162,2024-03-26,Germany,Google Ads
+100163,2024-03-31,Sweden,Affiliate
+100164,2024-02-04,Sweden,Google Ads
+100165,2024-03-05,Sweden,Facebook
+100166,2024-04-08,UK,Facebook
+100167,2024-04-10,UK,Affiliate
+100168,2024-02-16,UK,Facebook
+100169,2024-03-18,UK,Facebook
+100170,2024-01-03,Sweden,Organic
+100171,2024-01-01,Germany,Organic
+100172,2024-01-05,UK,Facebook
+100173,2024-03-30,UK,Affiliate
+100174,2024-04-28,Sweden,Organic
+100175,2024-01-14,Germany,Google Ads
+100176,2024-04-12,Germany,Google Ads
+100177,2024-01-27,Sweden,Google Ads
+100178,2024-01-09,Sweden,Affiliate
+100179,2024-03-19,Germany,Facebook
+100180,2024-01-15,UK,Google Ads
+100181,2024-03-30,Germany,Affiliate
+100182,2024-02-11,Sweden,Organic
+100183,2024-03-17,UK,Facebook
+100184,2024-02-20,UK,Organic
+100185,2024-03-03,Sweden,Affiliate
+100186,2024-04-05,Sweden,Google Ads
+100187,2024-04-12,Sweden,Google Ads
+100188,2024-04-22,Germany,Affiliate
+100189,2024-02-21,Germany,Google Ads
+100190,2024-04-05,UK,Facebook
+100191,2024-01-04,Sweden,Affiliate
+100192,2024-04-03,UK,Organic
+100193,2024-04-10,UK,Affiliate
+100194,2024-01-23,UK,Facebook
+100195,2024-04-12,UK,Facebook
+100196,2024-04-18,Sweden,Affiliate
+100197,2024-01-15,UK,Affiliate
+100198,2024-02-12,Sweden,Google Ads
+100199,2024-01-29,Sweden,Facebook
+100200,2024-02-05,Germany,Affiliate
+100201,2024-01-13,Sweden,Affiliate
+100202,2024-02-01,Germany,Facebook
+100203,2024-03-11,Sweden,Affiliate
+100204,2024-02-28,Sweden,Google Ads
+100205,2024-04-24,Sweden,Facebook
+100206,2024-03-26,Germany,Google Ads
+100207,2024-01-28,Germany,Google Ads
+100208,2024-03-06,UK,Google Ads
+100209,2024-02-11,Germany,Google Ads
+100210,2024-02-14,Germany,Facebook
+100211,2024-03-02,Germany,Google Ads
+100212,2024-02-26,Germany,Google Ads
+100213,2024-04-26,UK,Affiliate
+100214,2024-01-06,Germany,Facebook
+100215,2024-01-28,Sweden,Facebook
+100216,2024-01-28,Sweden,Organic
+100217,2024-04-17,Germany,Facebook
+100218,2024-02-13,Germany,Facebook
+100219,2024-03-24,Sweden,Organic
+100220,2024-01-30,Sweden,Facebook
+100221,2024-03-02,UK,Facebook
+100222,2024-03-15,Sweden,Facebook
+100223,2024-04-28,Sweden,Facebook
+100224,2024-04-01,Germany,Organic
+100225,2024-03-29,Sweden,Facebook
+100226,2024-04-12,UK,Facebook
+100227,2024-03-02,Sweden,Organic
+100228,2024-04-06,Germany,Affiliate
+100229,2024-01-01,Germany,Google Ads
+100230,2024-01-27,Sweden,Affiliate
+100231,2024-03-02,Germany,Organic
+100232,2024-04-25,UK,Google Ads
+100233,2024-03-17,UK,Organic
+100234,2024-04-14,Sweden,Organic
+100235,2024-01-03,Sweden,Facebook
+100236,2024-04-12,Sweden,Google Ads
+100237,2024-03-10,Germany,Facebook
+100238,2024-03-12,UK,Google Ads
+100239,2024-01-27,UK,Organic
+100240,2024-01-09,Germany,Organic
+100241,2024-03-02,UK,Affiliate
+100242,2024-02-06,Sweden,Google Ads
+100243,2024-04-06,Sweden,Facebook
+100244,2024-02-20,Sweden,Affiliate
+100245,2024-04-15,UK,Affiliate
+100246,2024-02-13,Sweden,Affiliate
+100247,2024-01-24,Germany,Facebook
+100248,2024-03-19,Germany,Affiliate
+100249,2024-02-28,UK,Facebook
+100250,2024-04-27,Germany,Affiliate
+100251,2024-02-01,Germany,Facebook
+100252,2024-04-05,UK,Organic
+100253,2024-03-28,Sweden,Organic
+100254,2024-04-14,Sweden,Organic
+100255,2024-02-21,Sweden,Organic
+100256,2024-04-22,UK,Organic
+100257,2024-03-02,Germany,Affiliate
+100258,2024-04-22,Sweden,Affiliate
+100259,2024-02-27,Sweden,Affiliate
+100260,2024-02-21,UK,Facebook
+100261,2024-01-12,Sweden,Facebook
+100262,2024-02-08,UK,Facebook
+100263,2024-01-02,Germany,Facebook
+100264,2024-01-03,UK,Organic
+100265,2024-04-22,UK,Organic
+100266,2024-04-10,UK,Organic
+100267,2024-04-22,UK,Google Ads
+100268,2024-02-25,Germany,Affiliate
+100269,2024-03-21,Germany,Facebook
+100270,2024-02-28,Sweden,Facebook
+100271,2024-04-22,Germany,Organic
+100272,2024-01-02,Germany,Facebook
+100273,2024-01-02,Sweden,Facebook
+100274,2024-04-01,Germany,Affiliate
+100275,2024-02-23,UK,Organic
+100276,2024-03-27,UK,Affiliate
+100277,2024-04-10,Sweden,Google Ads
+100278,2024-04-05,Sweden,Google Ads
+100279,2024-04-06,Sweden,Google Ads
+100280,2024-01-01,UK,Organic
+100281,2024-01-19,Germany,Facebook
+100282,2024-01-02,UK,Organic
+100283,2024-02-22,Sweden,Organic
+100284,2024-02-13,Germany,Facebook
+100285,2024-03-30,Germany,Affiliate
+100286,2024-02-01,UK,Google Ads
+100287,2024-03-10,Sweden,Affiliate
+100288,2024-02-01,UK,Google Ads
+100289,2024-04-28,Germany,Organic
+100290,2024-03-08,UK,Google Ads
+100291,2024-02-24,UK,Organic
+100292,2024-03-15,Sweden,Affiliate
+100293,2024-02-25,Sweden,Organic
+100294,2024-01-17,Germany,Affiliate
+100295,2024-02-07,UK,Facebook
+100296,2024-01-24,UK,Facebook
+100297,2024-03-09,UK,Facebook
+100298,2024-04-25,Germany,Organic
+100299,2024-04-07,Germany,Facebook
+100300,2024-03-10,Sweden,Google Ads
+100301,2024-03-26,Sweden,Affiliate
+100302,2024-01-11,Sweden,Affiliate
+100303,2024-04-21,UK,Google Ads
+100304,2024-01-16,UK,Organic
+100305,2024-04-06,Sweden,Organic
+100306,2024-03-13,UK,Affiliate
+100307,2024-02-28,Sweden,Facebook
+100308,2024-03-10,Germany,Organic
+100309,2024-03-20,Sweden,Organic
+100310,2024-04-02,Germany,Google Ads
+100311,2024-01-03,UK,Google Ads
+100312,2024-01-20,Sweden,Facebook
+100313,2024-02-28,UK,Organic
+100314,2024-02-05,Germany,Organic
+100315,2024-01-19,Germany,Google Ads
+100316,2024-03-30,Germany,Organic
+100317,2024-03-07,UK,Affiliate
+100318,2024-01-19,UK,Google Ads
+100319,2024-01-20,UK,Facebook
+100320,2024-04-05,UK,Google Ads
+100321,2024-03-11,Germany,Organic
+100322,2024-02-21,Germany,Facebook
+100323,2024-04-14,Sweden,Google Ads
+100324,2024-02-02,Sweden,Affiliate
+100325,2024-02-09,UK,Affiliate
+100326,2024-02-08,Germany,Google Ads
+100327,2024-03-22,Germany,Affiliate
+100328,2024-04-13,Germany,Affiliate
+100329,2024-01-01,Sweden,Affiliate
+100330,2024-01-11,Sweden,Facebook
+100331,2024-04-01,Germany,Affiliate
+100332,2024-02-26,Germany,Affiliate
+100333,2024-03-29,Germany,Affiliate
+100334,2024-02-19,Sweden,Facebook
+100335,2024-01-23,Germany,Google Ads
+100336,2024-01-31,Germany,Organic
+100337,2024-04-03,UK,Affiliate
+100338,2024-02-11,UK,Google Ads
+100339,2024-04-08,Sweden,Affiliate
+100340,2024-01-07,Germany,Facebook
+100341,2024-01-16,Germany,Google Ads
+100342,2024-03-30,UK,Facebook
+100343,2024-04-21,Sweden,Affiliate
+100344,2024-04-25,UK,Affiliate
+100345,2024-02-29,UK,Facebook
+100346,2024-04-22,UK,Organic
+100347,2024-01-02,UK,Facebook
+100348,2024-01-01,Germany,Affiliate
+100349,2024-02-17,Germany,Facebook
+100350,2024-01-12,UK,Organic
+100351,2024-03-09,Sweden,Facebook
+100352,2024-02-06,Sweden,Organic
+100353,2024-02-01,Sweden,Organic
+100354,2024-04-28,Sweden,Facebook
+100355,2024-01-09,UK,Facebook
+100356,2024-04-14,Germany,Google Ads
+100357,2024-04-08,Sweden,Affiliate
+100358,2024-01-19,UK,Organic
+100359,2024-02-17,Sweden,Google Ads
+100360,2024-03-20,Sweden,Facebook
+100361,2024-01-03,UK,Affiliate
+100362,2024-01-20,Germany,Google Ads
+100363,2024-01-24,Germany,Organic
+100364,2024-02-23,UK,Google Ads
+100365,2024-04-29,Germany,Organic
+100366,2024-02-02,UK,Facebook
+100367,2024-01-24,UK,Affiliate
+100368,2024-04-25,UK,Affiliate
+100369,2024-03-15,Germany,Affiliate
+100370,2024-04-22,UK,Facebook
+100371,2024-03-12,Sweden,Organic
+100372,2024-02-05,Germany,Facebook
+100373,2024-02-07,Germany,Affiliate
+100374,2024-04-13,Germany,Facebook
+100375,2024-03-24,Germany,Facebook
+100376,2024-04-08,Sweden,Facebook
+100377,2024-04-21,Germany,Organic
+100378,2024-03-29,Germany,Google Ads
+100379,2024-04-08,UK,Google Ads
+100380,2024-01-25,Germany,Facebook
+100381,2024-04-02,Sweden,Google Ads
+100382,2024-01-18,Sweden,Google Ads
+100383,2024-04-19,Sweden,Facebook
+100384,2024-03-22,Sweden,Facebook
+100385,2024-03-06,Germany,Affiliate
+100386,2024-02-23,Germany,Google Ads
+100387,2024-02-04,Sweden,Organic
+100388,2024-03-20,Sweden,Facebook
+100389,2024-03-01,Germany,Affiliate
+100390,2024-02-10,Sweden,Organic
+100391,2024-04-09,UK,Google Ads
+100392,2024-02-02,Sweden,Affiliate
+100393,2024-03-08,Sweden,Facebook
+100394,2024-02-02,UK,Organic
+100395,2024-01-14,UK,Facebook
+100396,2024-01-21,Germany,Google Ads
+100397,2024-02-17,Germany,Organic
+100398,2024-01-20,UK,Google Ads
+100399,2024-04-29,UK,Google Ads
+100400,2024-01-08,Germany,Affiliate
+100401,2024-01-07,Sweden,Facebook
+100402,2024-03-07,UK,Organic
+100403,2024-01-17,Germany,Google Ads
+100404,2024-02-02,Sweden,Google Ads
+100405,2024-02-17,UK,Organic
+100406,2024-03-16,Sweden,Google Ads
+100407,2024-02-28,Germany,Affiliate
+100408,2024-04-24,UK,Affiliate
+100409,2024-03-26,Sweden,Affiliate
+100410,2024-04-28,UK,Affiliate
+100411,2024-01-22,Sweden,Google Ads
+100412,2024-04-19,Germany,Organic
+100413,2024-01-30,Germany,Organic
+100414,2024-02-07,UK,Organic
+100415,2024-04-11,Sweden,Organic
+100416,2024-04-18,UK,Facebook
+100417,2024-02-20,UK,Organic
+100418,2024-02-23,Sweden,Facebook
+100419,2024-01-08,Sweden,Facebook
+100420,2024-01-27,Sweden,Affiliate
+100421,2024-01-27,Germany,Facebook
+100422,2024-04-07,UK,Google Ads
+100423,2024-01-21,UK,Facebook
+100424,2024-01-30,Germany,Affiliate
+100425,2024-04-06,Sweden,Facebook
+100426,2024-01-28,Germany,Google Ads
+100427,2024-04-20,Germany,Google Ads
+100428,2024-03-04,Germany,Google Ads
+100429,2024-04-06,UK,Affiliate
+100430,2024-03-09,Germany,Affiliate
+100431,2024-03-01,UK,Organic
+100432,2024-02-17,UK,Affiliate
+100433,2024-01-19,UK,Google Ads
+100434,2024-01-04,Sweden,Google Ads
+100435,2024-02-04,UK,Affiliate
+100436,2024-03-04,UK,Facebook
+100437,2024-02-18,Sweden,Affiliate
+100438,2024-01-17,UK,Affiliate
+100439,2024-02-13,Germany,Google Ads
+100440,2024-04-01,Germany,Organic
+100441,2024-01-30,UK,Google Ads
+100442,2024-04-02,Sweden,Organic
+100443,2024-02-15,Germany,Google Ads
+100444,2024-04-26,Sweden,Affiliate
+100445,2024-01-06,Sweden,Google Ads
+100446,2024-04-08,Germany,Google Ads
+100447,2024-04-14,Sweden,Google Ads
+100448,2024-02-06,Germany,Affiliate
+100449,2024-01-24,Sweden,Affiliate
+100450,2024-04-02,Germany,Affiliate
+100451,2024-04-22,UK,Affiliate
+100452,2024-02-15,Germany,Organic
+100453,2024-02-22,Germany,Organic
+100454,2024-04-04,Germany,Facebook
+100455,2024-04-08,Germany,Affiliate
+100456,2024-02-29,Sweden,Organic
+100457,2024-04-06,UK,Google Ads
+100458,2024-04-25,Germany,Affiliate
+100459,2024-03-03,Sweden,Facebook
+100460,2024-03-25,UK,Facebook
+100461,2024-02-01,UK,Facebook
+100462,2024-03-27,UK,Google Ads
+100463,2024-02-02,UK,Organic
+100464,2024-03-07,Germany,Google Ads
+100465,2024-01-18,Germany,Affiliate
+100466,2024-01-25,Sweden,Facebook
+100467,2024-04-15,Sweden,Google Ads
+100468,2024-04-04,Sweden,Google Ads
+100469,2024-02-23,UK,Organic
+100470,2024-02-27,UK,Organic
+100471,2024-03-07,Germany,Facebook
+100472,2024-04-13,UK,Google Ads
+100473,2024-02-15,UK,Google Ads
+100474,2024-01-24,UK,Organic
+100475,2024-04-23,Sweden,Google Ads
+100476,2024-02-01,Sweden,Google Ads
+100477,2024-02-16,Germany,Google Ads
+100478,2024-03-26,UK,Organic
+100479,2024-01-23,UK,Facebook
+100480,2024-03-06,Germany,Affiliate
+100481,2024-01-27,UK,Facebook
+100482,2024-04-15,UK,Affiliate
+100483,2024-01-02,Sweden,Google Ads
+100484,2024-03-30,Germany,Facebook
+100485,2024-01-17,Germany,Affiliate
+100486,2024-04-13,Germany,Organic
+100487,2024-02-02,Germany,Organic
+100488,2024-01-09,Sweden,Facebook
+100489,2024-02-12,Sweden,Facebook
+100490,2024-04-27,UK,Google Ads
+100491,2024-02-17,UK,Facebook
+100492,2024-02-08,UK,Google Ads
+100493,2024-04-02,UK,Google Ads
+100494,2024-02-11,Sweden,Organic
+100495,2024-04-28,Germany,Organic
+100496,2024-01-26,Sweden,Affiliate
+100497,2024-04-08,UK,Organic
+100498,2024-02-19,Sweden,Organic
+100499,2024-01-25,Germany,Facebook
+100500,2024-01-24,Germany,Organic
+100501,2024-01-13,Sweden,Affiliate
+100502,2024-02-29,Sweden,Facebook
+100503,2024-01-07,Sweden,Affiliate
+100504,2024-02-26,UK,Organic
+100505,2024-02-05,Sweden,Affiliate
+100506,2024-02-14,Sweden,Facebook
+100507,2024-01-20,Sweden,Google Ads
+100508,2024-03-05,Germany,Affiliate
+100509,2024-01-08,Germany,Affiliate
+100510,2024-04-19,UK,Facebook
+100511,2024-01-16,UK,Facebook
+100512,2024-01-14,Germany,Affiliate
+100513,2024-03-16,Germany,Organic
+100514,2024-04-24,Germany,Affiliate
+100515,2024-03-27,Sweden,Facebook
+100516,2024-01-15,Sweden,Google Ads
+100517,2024-04-01,Germany,Google Ads
+100518,2024-04-07,Sweden,Organic
+100519,2024-03-06,Sweden,Affiliate
+100520,2024-02-01,UK,Google Ads
+100521,2024-03-27,Germany,Affiliate
+100522,2024-03-03,Germany,Facebook
+100523,2024-03-26,Sweden,Google Ads
+100524,2024-02-20,Germany,Organic
+100525,2024-01-25,UK,Facebook
+100526,2024-02-27,UK,Organic
+100527,2024-03-03,UK,Facebook
+100528,2024-03-02,Germany,Google Ads
+100529,2024-01-22,Germany,Organic
+100530,2024-02-27,Germany,Organic
+100531,2024-02-27,Germany,Facebook
+100532,2024-03-26,Germany,Organic
+100533,2024-02-18,UK,Facebook
+100534,2024-02-21,Sweden,Facebook
+100535,2024-02-11,UK,Facebook
+100536,2024-03-10,Germany,Facebook
+100537,2024-01-15,UK,Google Ads
+100538,2024-02-23,Germany,Facebook
+100539,2024-04-16,Germany,Affiliate
+100540,2024-02-29,UK,Organic
+100541,2024-04-10,Germany,Affiliate
+100542,2024-04-06,Sweden,Google Ads
+100543,2024-01-08,Germany,Affiliate
+100544,2024-02-22,Sweden,Organic
+100545,2024-02-29,Sweden,Affiliate
+100546,2024-04-17,Germany,Google Ads
+100547,2024-04-17,UK,Facebook
+100548,2024-01-05,Sweden,Affiliate
+100549,2024-04-12,UK,Google Ads
+100550,2024-03-08,Sweden,Google Ads
+100551,2024-01-06,Germany,Organic
+100552,2024-04-18,Germany,Organic
+100553,2024-04-05,Sweden,Affiliate
+100554,2024-04-25,Germany,Facebook
+100555,2024-04-03,Sweden,Google Ads
+100556,2024-02-16,Germany,Affiliate
+100557,2024-04-08,UK,Google Ads
+100558,2024-02-24,Germany,Google Ads
+100559,2024-02-09,UK,Facebook
+100560,2024-02-21,Germany,Facebook
+100561,2024-01-16,UK,Affiliate
+100562,2024-01-13,Germany,Facebook
+100563,2024-04-23,UK,Facebook
+100564,2024-04-15,Sweden,Affiliate
+100565,2024-01-30,Sweden,Facebook
+100566,2024-01-19,UK,Organic
+100567,2024-01-17,Germany,Google Ads
+100568,2024-04-29,UK,Google Ads
+100569,2024-03-03,Germany,Google Ads
+100570,2024-01-19,Sweden,Google Ads
+100571,2024-04-01,Germany,Affiliate
+100572,2024-02-27,Sweden,Google Ads
+100573,2024-02-24,Germany,Google Ads
+100574,2024-03-30,Germany,Google Ads
+100575,2024-04-10,Germany,Google Ads
+100576,2024-03-30,UK,Organic
+100577,2024-04-26,UK,Google Ads
+100578,2024-03-02,Sweden,Organic
+100579,2024-01-23,Sweden,Affiliate
+100580,2024-01-09,UK,Facebook
+100581,2024-01-12,Sweden,Google Ads
+100582,2024-04-26,UK,Facebook
+100583,2024-01-01,Germany,Facebook
+100584,2024-02-27,Sweden,Affiliate
+100585,2024-01-01,Sweden,Facebook
+100586,2024-04-20,UK,Organic
+100587,2024-02-03,Sweden,Facebook
+100588,2024-04-05,Sweden,Facebook
+100589,2024-04-27,Germany,Facebook
+100590,2024-02-17,Sweden,Google Ads
+100591,2024-03-29,Germany,Google Ads
+100592,2024-04-13,UK,Organic
+100593,2024-04-18,Sweden,Organic
+100594,2024-04-26,Germany,Google Ads
+100595,2024-01-01,UK,Organic
+100596,2024-01-16,Sweden,Google Ads
+100597,2024-03-01,UK,Affiliate
+100598,2024-04-12,Sweden,Facebook
+100599,2024-03-04,UK,Facebook
+100600,2024-03-03,UK,Organic
+100601,2024-03-09,Germany,Google Ads
+100602,2024-01-22,UK,Google Ads
+100603,2024-04-02,Sweden,Organic
+100604,2024-04-28,Sweden,Google Ads
+100605,2024-03-07,Germany,Affiliate
+100606,2024-03-16,Sweden,Facebook
+100607,2024-01-26,Sweden,Organic
+100608,2024-01-16,Sweden,Organic
+100609,2024-02-20,UK,Google Ads
+100610,2024-04-10,UK,Organic
+100611,2024-03-26,Sweden,Affiliate
+100612,2024-02-26,Germany,Google Ads
+100613,2024-01-29,UK,Google Ads
+100614,2024-03-18,Germany,Google Ads
+100615,2024-04-01,Sweden,Google Ads
+100616,2024-03-09,Sweden,Affiliate
+100617,2024-02-16,UK,Google Ads
+100618,2024-04-22,Sweden,Organic
+100619,2024-04-03,UK,Affiliate
+100620,2024-04-19,Sweden,Facebook
+100621,2024-03-02,Sweden,Facebook
+100622,2024-04-25,UK,Organic
+100623,2024-03-09,UK,Organic
+100624,2024-03-16,UK,Affiliate
+100625,2024-01-16,Sweden,Facebook
+100626,2024-03-30,Sweden,Facebook
+100627,2024-03-30,Germany,Facebook
+100628,2024-02-17,UK,Facebook
+100629,2024-03-25,Sweden,Facebook
+100630,2024-02-08,Sweden,Google Ads
+100631,2024-04-09,UK,Organic
+100632,2024-02-02,Germany,Google Ads
+100633,2024-04-03,UK,Facebook
+100634,2024-04-10,Germany,Affiliate
+100635,2024-01-23,Sweden,Affiliate
+100636,2024-01-10,Germany,Facebook
+100637,2024-04-27,Sweden,Facebook
+100638,2024-03-09,UK,Affiliate
+100639,2024-04-09,UK,Google Ads
+100640,2024-02-03,UK,Google Ads
+100641,2024-02-21,Germany,Facebook
+100642,2024-04-04,Sweden,Google Ads
+100643,2024-01-10,UK,Affiliate
+100644,2024-01-19,UK,Google Ads
+100645,2024-02-27,Sweden,Facebook
+100646,2024-04-05,UK,Affiliate
+100647,2024-01-01,Sweden,Google Ads
+100648,2024-04-29,Sweden,Organic
+100649,2024-03-09,Sweden,Affiliate
+100650,2024-04-18,Sweden,Affiliate
+100651,2024-01-04,Sweden,Organic
+100652,2024-01-16,Germany,Organic
+100653,2024-01-24,UK,Affiliate
+100654,2024-03-20,Germany,Organic
+100655,2024-04-28,UK,Facebook
+100656,2024-01-02,Germany,Facebook
+100657,2024-04-22,Sweden,Facebook
+100658,2024-04-01,UK,Affiliate
+100659,2024-02-01,UK,Organic
+100660,2024-03-31,Germany,Organic
+100661,2024-03-24,Germany,Google Ads
+100662,2024-01-24,UK,Google Ads
+100663,2024-01-12,Germany,Organic
+100664,2024-02-19,Germany,Organic
+100665,2024-02-04,Germany,Organic
+100666,2024-02-02,Sweden,Affiliate
+100667,2024-02-02,Sweden,Organic
+100668,2024-03-01,Germany,Google Ads
+100669,2024-02-20,Germany,Affiliate
+100670,2024-02-12,Sweden,Organic
+100671,2024-04-10,Sweden,Google Ads
+100672,2024-01-12,UK,Affiliate
+100673,2024-03-07,UK,Organic
+100674,2024-03-05,Sweden,Organic
+100675,2024-02-02,Germany,Organic
+100676,2024-02-09,Germany,Affiliate
+100677,2024-03-14,Germany,Google Ads
+100678,2024-02-12,Germany,Google Ads
+100679,2024-02-13,UK,Facebook
+100680,2024-01-29,Sweden,Organic
+100681,2024-01-13,Germany,Facebook
+100682,2024-01-12,UK,Facebook
+100683,2024-04-04,Germany,Google Ads
+100684,2024-02-15,Sweden,Affiliate
+100685,2024-01-02,UK,Affiliate
+100686,2024-04-24,Sweden,Google Ads
+100687,2024-04-23,Sweden,Affiliate
+100688,2024-02-04,UK,Facebook
+100689,2024-03-27,UK,Organic
+100690,2024-03-21,UK,Google Ads
+100691,2024-03-30,UK,Organic
+100692,2024-01-08,UK,Affiliate
+100693,2024-04-02,UK,Organic
+100694,2024-01-26,UK,Affiliate
+100695,2024-03-14,Germany,Affiliate
+100696,2024-03-30,Sweden,Facebook
+100697,2024-02-03,UK,Affiliate
+100698,2024-04-24,Germany,Facebook
+100699,2024-04-14,Germany,Facebook
+100700,2024-01-07,Germany,Facebook
+100701,2024-03-08,Sweden,Google Ads
+100702,2024-02-27,UK,Google Ads
+100703,2024-04-26,Germany,Affiliate
+100704,2024-04-23,Sweden,Facebook
+100705,2024-04-18,Sweden,Google Ads
+100706,2024-03-15,Sweden,Facebook
+100707,2024-01-29,Germany,Organic
+100708,2024-04-29,UK,Organic
+100709,2024-02-05,Germany,Organic
+100710,2024-03-29,Germany,Affiliate
+100711,2024-01-21,UK,Facebook
+100712,2024-02-05,UK,Organic
+100713,2024-01-10,UK,Google Ads
+100714,2024-04-10,Sweden,Organic
+100715,2024-03-13,UK,Organic
+100716,2024-01-24,Germany,Organic
+100717,2024-03-04,UK,Affiliate
+100718,2024-04-08,Germany,Google Ads
+100719,2024-02-18,Sweden,Facebook
+100720,2024-04-08,Germany,Google Ads
+100721,2024-04-21,Germany,Facebook
+100722,2024-02-05,UK,Affiliate
+100723,2024-03-22,UK,Affiliate
+100724,2024-04-22,Germany,Affiliate
+100725,2024-04-12,UK,Affiliate
+100726,2024-04-05,Sweden,Facebook
+100727,2024-01-24,Sweden,Organic
+100728,2024-01-23,UK,Facebook
+100729,2024-03-02,Sweden,Google Ads
+100730,2024-04-05,UK,Affiliate
+100731,2024-02-06,Germany,Affiliate
+100732,2024-01-12,Germany,Google Ads
+100733,2024-04-22,Sweden,Facebook
+100734,2024-02-24,UK,Organic
+100735,2024-01-13,UK,Organic
+100736,2024-01-23,Sweden,Google Ads
+100737,2024-03-29,Germany,Organic
+100738,2024-04-08,Sweden,Facebook
+100739,2024-04-14,Germany,Facebook
+100740,2024-01-30,UK,Google Ads
+100741,2024-01-17,Germany,Facebook
+100742,2024-04-22,Sweden,Affiliate
+100743,2024-03-02,UK,Google Ads
+100744,2024-03-24,Sweden,Facebook
+100745,2024-04-21,Sweden,Google Ads
+100746,2024-03-29,Germany,Organic
+100747,2024-03-26,Sweden,Facebook
+100748,2024-01-13,Germany,Affiliate
+100749,2024-02-28,UK,Facebook
+100750,2024-01-19,Germany,Google Ads
+100751,2024-02-18,UK,Google Ads
+100752,2024-04-09,Germany,Facebook
+100753,2024-01-12,Sweden,Affiliate
+100754,2024-03-01,Germany,Affiliate
+100755,2024-04-14,Germany,Affiliate
+100756,2024-01-19,UK,Google Ads
+100757,2024-03-16,Sweden,Facebook
+100758,2024-01-09,Germany,Organic
+100759,2024-03-11,Sweden,Google Ads
+100760,2024-01-28,Germany,Affiliate
+100761,2024-03-18,Germany,Facebook
+100762,2024-04-04,Sweden,Affiliate
+100763,2024-02-21,Germany,Organic
+100764,2024-03-23,Sweden,Affiliate
+100765,2024-04-20,Germany,Affiliate
+100766,2024-01-16,UK,Organic
+100767,2024-04-26,Sweden,Facebook
+100768,2024-03-09,Germany,Google Ads
+100769,2024-04-08,Germany,Facebook
+100770,2024-01-12,UK,Organic
+100771,2024-01-25,Sweden,Affiliate
+100772,2024-02-21,Germany,Facebook
+100773,2024-03-25,UK,Google Ads
+100774,2024-04-09,Germany,Organic
+100775,2024-02-22,Sweden,Facebook
+100776,2024-01-23,Germany,Google Ads
+100777,2024-01-16,Germany,Organic
+100778,2024-02-26,Germany,Google Ads
+100779,2024-02-08,Germany,Organic
+100780,2024-04-18,UK,Affiliate
+100781,2024-02-22,UK,Facebook
+100782,2024-02-11,Sweden,Google Ads
+100783,2024-02-27,UK,Organic
+100784,2024-02-08,UK,Google Ads
+100785,2024-01-14,Sweden,Google Ads
+100786,2024-04-04,UK,Facebook
+100787,2024-01-05,UK,Affiliate
+100788,2024-02-04,Sweden,Google Ads
+100789,2024-03-27,Sweden,Organic
+100790,2024-04-02,Sweden,Organic
+100791,2024-04-16,Germany,Affiliate
+100792,2024-03-15,Germany,Organic
+100793,2024-01-18,Sweden,Affiliate
+100794,2024-04-20,Sweden,Organic
+100795,2024-03-16,Sweden,Facebook
+100796,2024-01-09,Germany,Google Ads
+100797,2024-03-14,Germany,Facebook
+100798,2024-02-27,UK,Google Ads
+100799,2024-04-17,UK,Google Ads
+100800,2024-01-17,Sweden,Google Ads
+100801,2024-04-11,Germany,Facebook
+100802,2024-01-07,Germany,Google Ads
+100803,2024-02-15,Germany,Facebook
+100804,2024-01-13,Sweden,Affiliate
+100805,2024-02-09,UK,Organic
+100806,2024-02-11,Sweden,Organic
+100807,2024-01-09,UK,Google Ads
+100808,2024-02-19,UK,Facebook
+100809,2024-01-27,Sweden,Organic
+100810,2024-03-06,UK,Facebook
+100811,2024-01-05,UK,Facebook
+100812,2024-01-29,Germany,Google Ads
+100813,2024-02-06,UK,Organic
+100814,2024-02-07,Sweden,Google Ads
+100815,2024-03-23,Sweden,Google Ads
+100816,2024-01-08,UK,Organic
+100817,2024-04-21,Germany,Organic
+100818,2024-04-18,Germany,Affiliate
+100819,2024-03-05,UK,Affiliate
+100820,2024-03-26,UK,Facebook
+100821,2024-04-25,Sweden,Organic
+100822,2024-01-17,UK,Affiliate
+100823,2024-03-11,Germany,Facebook
+100824,2024-03-29,UK,Facebook
+100825,2024-02-14,Sweden,Facebook
+100826,2024-01-04,Sweden,Affiliate
+100827,2024-02-05,Sweden,Organic
+100828,2024-03-10,Sweden,Google Ads
+100829,2024-01-31,Sweden,Facebook
+100830,2024-01-19,UK,Affiliate
+100831,2024-03-01,UK,Affiliate
+100832,2024-04-17,UK,Google Ads
+100833,2024-02-23,UK,Google Ads
+100834,2024-02-08,Sweden,Affiliate
+100835,2024-03-31,Germany,Organic
+100836,2024-03-14,UK,Google Ads
+100837,2024-03-30,Germany,Affiliate
+100838,2024-01-19,UK,Google Ads
+100839,2024-02-08,UK,Organic
+100840,2024-03-07,Germany,Facebook
+100841,2024-02-14,Sweden,Google Ads
+100842,2024-01-13,UK,Organic
+100843,2024-04-23,UK,Affiliate
+100844,2024-04-01,UK,Google Ads
+100845,2024-02-27,Germany,Google Ads
+100846,2024-01-20,Sweden,Affiliate
+100847,2024-04-01,Germany,Facebook
+100848,2024-03-12,Germany,Affiliate
+100849,2024-03-01,Sweden,Google Ads
+100850,2024-04-14,Germany,Affiliate
+100851,2024-02-08,Sweden,Organic
+100852,2024-01-01,UK,Affiliate
+100853,2024-01-03,Sweden,Google Ads
+100854,2024-03-17,UK,Affiliate
+100855,2024-04-01,Germany,Facebook
+100856,2024-03-02,Germany,Affiliate
+100857,2024-03-03,UK,Facebook
+100858,2024-04-22,Germany,Organic
+100859,2024-01-25,Sweden,Facebook
+100860,2024-02-25,UK,Affiliate
+100861,2024-02-02,Germany,Google Ads
+100862,2024-02-07,UK,Facebook
+100863,2024-04-26,Sweden,Organic
+100864,2024-01-06,Sweden,Facebook
+100865,2024-02-27,Germany,Facebook
+100866,2024-02-13,Sweden,Facebook
+100867,2024-02-14,UK,Organic
+100868,2024-02-01,Sweden,Affiliate
+100869,2024-02-14,UK,Facebook
+100870,2024-03-01,UK,Facebook
+100871,2024-02-16,Sweden,Google Ads
+100872,2024-01-21,Germany,Organic
+100873,2024-03-20,Sweden,Facebook
+100874,2024-04-27,UK,Organic
+100875,2024-03-25,UK,Facebook
+100876,2024-03-15,Sweden,Affiliate
+100877,2024-04-10,Germany,Affiliate
+100878,2024-02-05,Germany,Facebook
+100879,2024-04-08,UK,Affiliate
+100880,2024-01-19,UK,Facebook
+100881,2024-01-20,Germany,Affiliate
+100882,2024-02-26,Sweden,Google Ads
+100883,2024-01-18,UK,Google Ads
+100884,2024-02-16,UK,Google Ads
+100885,2024-04-14,Germany,Organic
+100886,2024-02-18,Sweden,Organic
+100887,2024-01-14,Germany,Google Ads
+100888,2024-01-15,Sweden,Organic
+100889,2024-01-31,Sweden,Affiliate
+100890,2024-01-01,Sweden,Facebook
+100891,2024-04-26,UK,Facebook
+100892,2024-02-23,Germany,Facebook
+100893,2024-04-27,Germany,Google Ads
+100894,2024-01-03,Sweden,Organic
+100895,2024-01-16,UK,Affiliate
+100896,2024-03-27,UK,Affiliate
+100897,2024-02-26,Germany,Google Ads
+100898,2024-03-15,UK,Affiliate
+100899,2024-01-12,UK,Affiliate
+100900,2024-03-14,Sweden,Affiliate
+100901,2024-04-05,UK,Affiliate
+100902,2024-01-16,Sweden,Organic
+100903,2024-03-12,Germany,Affiliate
+100904,2024-04-11,UK,Facebook
+100905,2024-03-16,Germany,Google Ads
+100906,2024-01-24,Germany,Organic
+100907,2024-01-28,UK,Affiliate
+100908,2024-04-26,UK,Organic
+100909,2024-01-08,Germany,Affiliate
+100910,2024-04-01,UK,Facebook
+100911,2024-02-05,Sweden,Google Ads
+100912,2024-03-30,Sweden,Affiliate
+100913,2024-01-08,UK,Affiliate
+100914,2024-02-27,Germany,Affiliate
+100915,2024-02-29,UK,Affiliate
+100916,2024-02-19,UK,Google Ads
+100917,2024-01-28,Germany,Google Ads
+100918,2024-04-01,Germany,Facebook
+100919,2024-04-10,Sweden,Google Ads
+100920,2024-02-10,Germany,Affiliate
+100921,2024-04-09,Sweden,Facebook
+100922,2024-03-04,Germany,Facebook
+100923,2024-01-27,UK,Facebook
+100924,2024-04-27,Sweden,Affiliate
+100925,2024-03-03,Sweden,Organic
+100926,2024-01-17,Sweden,Affiliate
+100927,2024-03-13,UK,Google Ads
+100928,2024-02-02,UK,Google Ads
+100929,2024-04-26,UK,Affiliate
+100930,2024-03-24,UK,Affiliate
+100931,2024-03-17,UK,Facebook
+100932,2024-04-01,Sweden,Affiliate
+100933,2024-04-21,UK,Facebook
+100934,2024-01-29,Sweden,Google Ads
+100935,2024-01-13,UK,Facebook
+100936,2024-02-15,Germany,Affiliate
+100937,2024-02-04,Sweden,Google Ads
+100938,2024-01-06,Germany,Organic
+100939,2024-03-22,Sweden,Facebook
+100940,2024-04-24,Germany,Google Ads
+100941,2024-03-09,UK,Facebook
+100942,2024-02-16,UK,Google Ads
+100943,2024-01-25,UK,Google Ads
+100944,2024-03-06,Sweden,Facebook
+100945,2024-01-10,Germany,Organic
+100946,2024-02-25,UK,Google Ads
+100947,2024-01-30,Germany,Google Ads
+100948,2024-04-23,Germany,Google Ads
+100949,2024-04-18,UK,Organic
+100950,2024-01-05,UK,Organic
+100951,2024-04-28,Germany,Affiliate
+100952,2024-04-29,UK,Facebook
+100953,2024-02-02,UK,Organic
+100954,2024-04-27,UK,Facebook
+100955,2024-03-05,Sweden,Affiliate
+100956,2024-01-18,Germany,Facebook
+100957,2024-04-05,Germany,Organic
+100958,2024-04-20,Sweden,Facebook
+100959,2024-02-18,Germany,Organic
+100960,2024-01-11,UK,Facebook
+100961,2024-03-25,Germany,Organic
+100962,2024-01-26,UK,Organic
+100963,2024-03-03,Sweden,Facebook
+100964,2024-03-29,UK,Affiliate
+100965,2024-03-26,Germany,Google Ads
+100966,2024-02-28,Germany,Affiliate
+100967,2024-01-27,Germany,Facebook
+100968,2024-02-18,Sweden,Affiliate
+100969,2024-03-17,Sweden,Organic
+100970,2024-02-02,Germany,Google Ads
+100971,2024-04-07,UK,Facebook
+100972,2024-04-14,Sweden,Facebook
+100973,2024-04-08,Germany,Facebook
+100974,2024-01-01,Germany,Google Ads
+100975,2024-01-21,Sweden,Organic
+100976,2024-04-21,Sweden,Facebook
+100977,2024-02-24,Sweden,Affiliate
+100978,2024-01-06,UK,Facebook
+100979,2024-04-01,UK,Facebook
+100980,2024-03-21,Germany,Facebook
+100981,2024-03-09,Sweden,Facebook
+100982,2024-04-04,UK,Organic
+100983,2024-01-05,Sweden,Affiliate
+100984,2024-04-11,Germany,Organic
+100985,2024-01-03,UK,Affiliate
+100986,2024-02-22,UK,Facebook
+100987,2024-01-23,UK,Google Ads
+100988,2024-04-10,Germany,Organic
+100989,2024-02-22,Sweden,Google Ads
+100990,2024-02-06,UK,Organic
+100991,2024-03-14,Germany,Facebook
+100992,2024-03-14,Sweden,Organic
+100993,2024-03-23,Germany,Facebook
+100994,2024-01-17,Sweden,Organic
+100995,2024-03-25,Germany,Facebook
+100996,2024-03-18,Sweden,Facebook
+100997,2024-03-13,UK,Affiliate
+100998,2024-04-19,Sweden,Facebook
+100999,2024-01-01,Germany,Affiliate
+101000,2024-02-20,Germany,Facebook
